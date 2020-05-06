@@ -1,0 +1,7 @@
+*** Downloading a repository from github ***
+
+git clone https://github.com/githubuser/gitreponame
+
+
+*** Creating a local github repository ***
+git init
